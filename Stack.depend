@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519339418 source:e:\elte\prog_demo\stack\main.cpp
+	<iostream>
+	"Stack.h"
+
+1519342146 e:\elte\prog_demo\stack\include\stack.h
+	<vector>
+
+1519342276 source:e:\elte\prog_demo\stack\src\stack.cpp
+	"Stack.h"
+
